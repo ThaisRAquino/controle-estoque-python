@@ -76,5 +76,5 @@ Selecione uma opção:
 - Controle de categorias e fornecedores
 
 ## Autor
-
+Thais R Aquino
 Projeto acadêmico desenvolvido para a disciplina de Python da Faculdade.
