@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+estoque.json
+.venv/
+venv/
+.claude/
